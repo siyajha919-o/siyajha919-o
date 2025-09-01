@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siya Pankaj </h1>
-<h3 align="center">Frontend Developer | IBM-AICTE Intern | Aspiring AI/ML Enthusiast</h3>
+<h3 align="center">IBM-AICTE Intern</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 - 💻 Skilled in **HTML, CSS, JavaScript, React, Node.js, Python**  
 - 🧩 Active on **LeetCode & CodeChef**, solving real-world coding challenges  
 - 🎯 Passionate about building scalable projects & contributing to **open-source**  
-- 📫 Reach me at: **siya.jha@gmail.com**  
+- 📫 Reach me at: **siyapankaj.2006@gmail.com**  
 
 ---
 
