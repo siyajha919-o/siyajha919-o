@@ -37,7 +37,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **Data Grand Prix** | Data science project with real-world dataset analysis and ML insights | [GitHub](https://github.com/siyajha919-o/data_grand_prix) |
-| **Vista-S (Hackathon)** | AI/ML project showcased in hackathon (YouTube demo available) | [Demo](https://youtu.be/Y5rwQC3EzMU) |
+| **Vista-S ** | AI/ML project showcased in hackathon (YouTube demo available) | [Demo](https://youtu.be/Y5rwQC3EzMU) |
 | **Agentcy** | *(Short description about AI agent framework)* | 🚀 |
 | **Archon-AI** | *(Short description about AI-based project)* | 🚀 |
 | **Analytic Position Case Study** | *(Case study with Python data analysis techniques)* | 🚀 |
